@@ -1,0 +1,9 @@
+cancelMessage: "cancelar"
+commands:
+  - "ban"
+  - "kick"
+  - "mute"
+  - "banip"
+users:
+  segu23: "1234"
+  orionrd: "5678"

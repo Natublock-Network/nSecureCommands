@@ -1,0 +1,10 @@
+name: Secure-Commands
+version: '${project.version}'
+main: org.kayteam.securecommands.SecureCommands
+api-version: 1.13
+authors: [ KayTeam ]
+website: https://kayteam.org
+commands:
+  securecommands:
+    aliases:
+      - seccmds
